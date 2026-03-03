@@ -1,1 +1,1 @@
-This is an unexpected exploit I found while messing with the game files. It helps dump unprotected variables but with their protected names, which is going to speed up castleforge progress a lot.
+This is an unexpected exploit I found while messing with the game files. It helps dump unprotected variables but with their protected names, which is going to speed up castleforge progress a lot. working on 1.50.14
